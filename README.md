@@ -5,6 +5,7 @@ Repositório dedicado à disciplina de Trabalho Interdisciplinar: Aplicações p
 - Anderson Junior dos Santos
 - Danilo Henrique de Souza Riguette
 - Derick Eduardo dos Santos Orcelino
+- Matheus Henrique Bolina Diniz
 - Yago Marques Freitas de Oliveira
 
 ------------------- 
