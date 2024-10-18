@@ -1,0 +1,37 @@
+"Cost per conversation in USD, effective June 1, 2023",,,,,,
+"Note: Authentication-International rate applies for Indonesia as of June 1, 2024 and India as of July 1, 2024. Refer to our developer documentation for more detail on this rate.",,,,,,
+"Note: Utility rates below apply as of August 1, 2024.",,,,,,
+"Note: Utility rates below apply as of October 1, 2024.",,,,,,
+Market,Currency,Marketing,Utility,Authentication,Authentication-International,Service
+Argentina,$US,0.0618,0.0340,0.0367,n/a,0.0316
+Brazil,$US,0.0625,0.0080,0.0315,n/a,0.0300
+Chile,$US,0.0889,0.0200,0.0527,n/a,0.0454
+Colombia,$US,0.0125,0.0002,0.0077,n/a,0.0060
+Egypt,$US,0.1073,0.0052,0.0618,n/a,0.0644
+France,$US,0.1432,0.0300,0.0691,n/a,0.0859
+Germany,$US,0.1365,0.0550,0.0768,n/a,0.0819
+India,$US,0.0107,0.0014,0.0014,0.0280,0.0040
+Indonesia,$US,0.0411,0.0200,0.0300,0.1360,0.0190
+Israel,$US,0.0353,0.0053,0.0169,n/a,0.0180
+Italy,$US,0.0691,0.0300,0.0378,n/a,0.0386
+Malaysia,$US,0.0860,0.0140,0.0180,n/a,0.0220
+Mexico,$US,0.0436,0.0100,0.0239,n/a,0.0105
+Netherlands,$US,0.1597,0.0500,0.0720,n/a,0.0891
+Nigeria,$US,0.0516,0.0067,0.0287,n/a,0.0310
+Pakistan,$US,0.0473,0.0054,0.0228,n/a,0.0142
+Peru,$US,0.0703,0.0200,0.0377,n/a,0.0179
+Russia,$US,0.0802,0.0400,0.0429,n/a,0.0398
+Saudi Arabia,$US,0.0455,0.0115,0.0226,n/a,0.0195
+South Africa,$US,0.0379,0.0076,0.0180,n/a,0.0168
+Spain,$US,0.0615,0.0200,0.0342,n/a,0.0369
+Turkey,$US,0.0109,0.0053,0.0083,n/a,0.0030
+United Arab Emirates,$US,0.0384,0.0157,0.0178,n/a,0.0190
+United Kingdom,$US,0.0529,0.0220,0.0358,n/a,0.0388
+North America,$US,0.0250,0.0040,0.0135,n/a,0.0088
+Rest of Africa,$US,0.0225,0.0061,0.0144,n/a,0.0363
+Rest of Asia Pacific,$US,0.0732,0.0157,0.0425,n/a,0.0224
+Rest of Central & Eastern Europe,$US,0.0860,0.0353,0.0557,n/a,0.0250
+Rest of Latin America,$US,0.0740,0.0113,0.0445,n/a,0.0423
+Rest of Middle East,$US,0.0341,0.0157,0.0178,n/a,0.0218
+Rest of Western Europe,$US,0.0592,0.0300,0.0378,n/a,0.0397
+Other,$US,0.0604,0.0077,0.0304,n/a,0.0145
